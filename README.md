@@ -2,6 +2,6 @@
 DECOMPILE_STORE - 🚫
 
 
-print (''Download Zip File ⬇️'')
+! Download Zip File ⬇️
 
-Zip Password  : D1234
+• Zip Password  : D1234
